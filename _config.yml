@@ -1,0 +1,28 @@
+name: Breeze Charger
+favicon: null
+layout_spectrum: 0.9014955970924348
+typography_spectrum: 0.06724355812184513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.40897634089924395
+  lightness: 0.6766398700419813
+  saturation: 0.854939992306754
+  rhythmicContrast: 0.6586579950526357
+purpose: []
